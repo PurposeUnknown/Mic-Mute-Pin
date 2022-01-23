@@ -13,6 +13,7 @@ VIDEO TUTORIAL COMING SOON
 
 This assumes you know a little bit about Unity Animators and VRChat Avatars.
 
+1) Import the Unity Package
 
 2) Position mic_mute_pin.fbx on your avatar as desired, move under parent bone to follow as desired 
 (for example, if on chest put it under the Chest bone).
